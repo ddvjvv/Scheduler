@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Scheduler.Application\Scheduler.Application.csproj" />
+    <ProjectReference Include="..\Scheduler.Data\Scheduler.Data.csproj" />
+  </ItemGroup>
+
+</Project>
