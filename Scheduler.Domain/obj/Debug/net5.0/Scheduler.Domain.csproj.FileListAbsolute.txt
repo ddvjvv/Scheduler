@@ -1,0 +1,12 @@
+C:\Projects\Scheduler\Scheduler.Domain\bin\Debug\net5.0\Scheduler.Domain.deps.json
+C:\Projects\Scheduler\Scheduler.Domain\bin\Debug\net5.0\Scheduler.Domain.dll
+C:\Projects\Scheduler\Scheduler.Domain\bin\Debug\net5.0\ref\Scheduler.Domain.dll
+C:\Projects\Scheduler\Scheduler.Domain\bin\Debug\net5.0\Scheduler.Domain.pdb
+C:\Projects\Scheduler\Scheduler.Domain\obj\Debug\net5.0\Scheduler.Domain.csproj.AssemblyReference.cache
+C:\Projects\Scheduler\Scheduler.Domain\obj\Debug\net5.0\Scheduler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Scheduler\Scheduler.Domain\obj\Debug\net5.0\Scheduler.Domain.AssemblyInfoInputs.cache
+C:\Projects\Scheduler\Scheduler.Domain\obj\Debug\net5.0\Scheduler.Domain.AssemblyInfo.cs
+C:\Projects\Scheduler\Scheduler.Domain\obj\Debug\net5.0\Scheduler.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Scheduler\Scheduler.Domain\obj\Debug\net5.0\Scheduler.Domain.dll
+C:\Projects\Scheduler\Scheduler.Domain\obj\Debug\net5.0\ref\Scheduler.Domain.dll
+C:\Projects\Scheduler\Scheduler.Domain\obj\Debug\net5.0\Scheduler.Domain.pdb
